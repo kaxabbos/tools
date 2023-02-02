@@ -1,0 +1,6 @@
+.idea
+.mvn
+.PVS-Studio
+target
+src/main/resources/img/
+!src/main/resources/img/ico/ico.png
